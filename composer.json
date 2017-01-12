@@ -1,0 +1,21 @@
+{
+    "name": "sammy/utils",
+    "description": "array,string,utils",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sammy Lee",
+            "email": "yimin.li@xgimi.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {
+	"php": ">=5.3.3",
+    },
+    "autoload": {
+	"psr-4": {
+	    "Sammy\\Utils\\": "src/"
+	}
+    }
+}
