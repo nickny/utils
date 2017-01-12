@@ -9,7 +9,7 @@
       "email": "yimin.li@xgimi.com"
     }
   ],
-  "minimum-stability": "alpha",
+  "minimum-stability": "stable",
   "require": {
     "php": ">=5.6.0"
   },
