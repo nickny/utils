@@ -4,7 +4,7 @@
  * Date: 2016/9/6
  * Time: 11:43
  */
-namespace Sammy\Utils;
+namespace Nickny\Utils;
 
 class StringUtils {
 
