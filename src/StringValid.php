@@ -1,5 +1,5 @@
 <?php
-namespace Sammy\Utils;
+namespace Nickny\Utils;
 
 class Validate_utils
 {
