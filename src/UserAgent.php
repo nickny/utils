@@ -6,7 +6,7 @@
  * Time: 15:35
  */
 
-namespace Sammy\Utils;
+namespace Nickny\Utils;
 
 
 class UserAgent
